@@ -1,1 +1,1 @@
-## Рендомная выборка фильмов со стороннего api, с дальнейшем пополнением локальной БД
+Generic single-database configuration with an async dbapi.
